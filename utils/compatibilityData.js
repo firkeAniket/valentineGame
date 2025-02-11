@@ -10,6 +10,10 @@ const compatibilityQuestions = [
     {
         question: "Which activity do you enjoy the most?",
         options: ["Watching movies", "Playing games", "Going on trips", "Cooking together"],
+    },
+    {
+        question: "Whats your Favourite TV show?",
+        options: ["Friends", "Game of Throne", "Big Bang Theory", "Suits"],
     }
 ];
 
